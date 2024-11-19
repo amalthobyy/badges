@@ -43,8 +43,12 @@ class Linkedlist:
 
         new_node = Node(data)
 
+        new_node.next = temp.next
         temp.next = new_node
-        new_node.next = 
+
+       
+        if temp == self.tail:
+            self.tail = new_node
 
 
 
@@ -58,6 +62,12 @@ class Linkedlist:
                 print(n.data,end="-->")
                 n=n.next 
 
+    def rev(self,node):
+        if node is None:
+            return
+        self.rev(node.next)
+        print(node.data,end='<--')    
+
 arr=[1,3,4,5,7,8,9,9,2,3]
 
 ll1=Linkedlist()
@@ -65,10 +75,14 @@ for i in arr:
     ll1.add_node(i)
 
 
-ll1.delete_node(5)  
-ll1.add_node_after(4)
-ll1.add_node(10)
-ll1.printll()  
+# ll1.rev(ll1.head)
+ll1.printll()
+
+
+# ll1.delete_node(5)  
+# ll1.add_node_after(4)
+# ll1.add_node(10)
+# ll1.printll()  
 
 
 

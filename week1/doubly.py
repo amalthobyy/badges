@@ -35,7 +35,7 @@ class doubly:
         if temp ==self.tail:
             self.tail=self.tail.prev
             self.tail.next=None
-        else:
+        else:                                                     
             temp.prev.next=temp.next
             if temp.next is not None:
                 temp.next.prev=temp.prev

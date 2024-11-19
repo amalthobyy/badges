@@ -16,10 +16,5 @@ def binary_search(arr, target):
     return -1  
 
 arr = [23, 6, 4, 7, 4332, 7, 3, 47, 45, 3]
-target = 7
-result = binary_search(arr, target)
-
-if result != -1:
-    print(f"Element {target} found at index {result} in the sorted array.")
-else:
-    print(f"Element {target} not found.")
+target = 4
+print(binary_search(arr, target))
