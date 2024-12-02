@@ -1,0 +1,63 @@
+
+
+Divide and conquer technique 
+Collision in hashtable
+Merge sort concept
+merge sort vs quick sort
+Disadvantages of LL
+-bucket entries
+-practice problems based on recursion
+Double hashing
+Hash table programs
+Locality of reference
+Stable sorting
+Purpose of stack pointer
+double ended queue
+Load factor
+underflow in stack
+types of queues
+applications of hash table
+separate chaining
+performance of a dense hash tables
+rehashing
+priority queue (use cases)
+Merge two sorted arrays into a single  sorted array
+-sum an array using recursion
+find the longest repeating char in "gaamjjjj"
+check a string has duplicate or not
+find duplicates using hashtable
+Duplicate in a string using hash table
+queue and stack using LL
+reverse queue using recursion
+insertion sort 
+bubble sort 
+Merge sort 
+quick sort
+reverse string using stack
+Remove odd number from a queue
+delete middle element of stack
+sort the array of string using quick sort
+find the unmatched elements from the given two array Of string
+Hash table
+open addressing
+Need focus on Hash table workouts
+merge sort vs quick sort(complexity)
+Call stack
+Perfect Hash function
+open addressing vs. separate chaining
+Quadratic Probing
+Linear Probing
+resize a hash table?
+
+Applications of stack and queue 
+Input of Hash function 
+Insertion sort concept
+Selection sort concept
+hashing functions
+balanced parentheses,
+-Understand properrally what is best case/average case and worst case and why
+-How can I use a hash table approach in JavaScript to efficiently remove duplicates from an array?
+Undo and redo with stack 
+Get function for hash table with linked list
+Quick sort without additional arrays
+types of hash functions

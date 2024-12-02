@@ -1,0 +1,262 @@
+
+
+What is tree
+Root,node, edge, children, parent, leaf, subtree
+Type of tree data structure
+Ternary tree
+N- tree
+Application of tree data structure
+Advantage and disadvantage of tree
+Tree traversal algorithm 
+What is BFS
+What is DFS
+What is perfect binary tree and complete binary tree
+What is graph
+Type of graph
+What is undirected graph and directed graph
+Weight graph
+Application of weighted graph
+Acyclic graph
+Directed acyclic graph
+Connected graph and disconnected graph
+Isolated graph
+Null graph
+Traversal graph
+Regular graph
+Complete  graph
+Degree of the graph
+What is heap data structure
+Type of heep
+Heap application
+Heap advantage and disadvantage
+What is heap sort
+Heap sort advantage and disadvantage
+What is trie
+Advantage of tries
+Comparison of tries with hashtable
+Application of tries
+Tree vs graph
+Spanning tree
+- heapify algorithm
+brutforce algo
+BST VS BT
+Balanced tree
+Complexity of BST search
+Time complexity of BFS
+BFS and DFS
+Trie search complexity 
+Heafify complexity
+Red black tree
+Binary tree and BFS
+
+Write a function to get second largest element of BST
+Learn about DFS and BFS  and  solve at least 3 problems each
+Remove duplicates from array [2,4,6,2,8,8,8]
+Time complexity of heap sort
+How to delete node from BST
+Write a code for gym management, where you need to insert the member id and name and search the member of id through id using BST
+Write the code to insert the name and search the name using BST 
+Application of heap sort
+Tries vs hash table similarities
+BFS and DFS graph traversal application 
+Segment trees
+Tarjan's algorithm
+Bruteforce algorithm
+- Dijkstra's algo
+Suffix tries
+Search in a binary search tree
+Range sum of BST 
+AVL
+Graph traversal
+Tries graph application
+Trie root node value
+Learn graph value
+Learn graph DS
+Heap sort
+Insert node in a BST
+Inorder traversal
+Find min in BST code
+Delete a cycle in a directed graph
+Validate BST 
+Application of heap 
+Minimum spanning tree
+Parent node in heap
+In - place sorting
+Root node of trie
+Eulerian path
+Time complexity -DFS
+Compressed trie
+Trie - memory efficiency
+Heapify process
+Degree of tree
+Find the number of cycle in a graph
+Application of a graph
+Check two trees are identical
+Oop
+Fastest sorting algo
+Degree of vertex
+Completed and regular graph
+Distance between two nodes
+Check if path exists between two nodes in a graph 
+Which traversal method using stack in graph
+Perfect binary tree
+Degenerate tree
+Time complexity of tries
+Use of DFS and BFS
+
+
+ 
+tree,application
+  complete,full,perfect tree
+  bst O(log n)
+  heap O(log n)
+  types of graph
+  isolated vertex
+  weighted graph 
+  heapsort O(n)
+  trie vs hashtable
+  graph indexing
+  vertex indexing
+  edge indexing
+  height vs depth of a node
+  degree of a node
+  shortest path algorithm
+ binomial heap
+  self balancing tree
+  top-down and bottom-up heapification
+  how to check bst is a subset of x
+  advantage of priority queue using heap
+  adjacency list and adjacency matrix
+ Graph types
+ BST , application ,type
+  trie application ,type
+  heap , application , type
+- inserting "caterpillar" into a trie having "cat" and "car"
+trie fetch all words matching prefix
+inserting into compressed trie
+detect a cycle in a directed graph
+Graph traversal concept
+Heap concept
+applications of BFS
+parent node in heap
+priority queue
+degenerate tree
+binary tree properties
+weighted graph
+application of weighted graph
+resize a hashtable ?
+applications of heap
+minimum spanning tree
+- parent node in heap
+complete vs full binary tree
+time complexity of BST operations
+applications of heap
+find the closest value in BST
+Adjacency matrix v/s adjacency list
+
+PRACTICAL
+Pendings:
+- topology
+- btree*
+- radix tree*
+- height of BST
+- trie prefix search *
+- heap sort (needs improvement)
+Longest common prefix in a  tree
+Prefixes of a word
+Trie insert,search
+Check whether the given tree is BST or not?, 
+Count leaf nodes in a BST, 
+Bst insert,search,traverse,delete
+Find the closest value to a given number in a Tree.
+Graph insert node,edge,search,bfs,dfs,delete node,edge
+Heap build,insert,remove,min and max,sort
+Trie,traverse
+Normal tree insertion, binary tree insertion
+Inserting into compressed tree
+Binary tree insertion given with small modification 
+Inserting “caterpillar” into a tree having “cat” and “car”
+Tree fetch all words matching prefix
+how to check bst is a subset of x
+How to find shortest path in graph
+PENDING
+graph indexing
+vertex indexing
+edge indexing
+Bruteforce algorithm
+adv of priority queue using heap
+trie vs hashtable
+Compressed trie
+Root node  of trie
+heapsort O(n)
+TREE
+complete,full,perfect tree
+Tree, application
+perfect tree vs complete tree, 
+complexity of BST insertion, 
+spanning tree, 
+Degree of tree
+Avl tree
+self balancing tree
+BST , application ,type
+height vs depth of a node
+degree of a node
+GRAPH
+types of graph
+weighted graph 
+graph , application ,types
+isolated vertex
+degree of a vertex and graph
+BFS and DFS
+Bfs algo
+adjacency list and adjacency matrix
+Eulerian path
+Attempt eulerian path
+Dijkstra's algo
+shortest path algorithm
+
+heap O(log n)
+complexity of build heap, 
+binomial heap
+topdown and bottom up heapification
+Heapify algo
+heap , application , type
+
+trie application ,type
+drawbacks of trie
+
+
+
+
+Review  Extension Date:18-Nov-2024
+Reason:Health issue
+Next Review Date:25-Nov-2024
+
+Pending:
+
+Heapify exact concept 
+
+Do more practical using heap
+
+Practical: 5.5
+Theory: 6
+
+
+
+Pending:
+
+Segment tree
+Red black tree
+AVL tree
+self balancing binary tree
+heap & types of heap
+Trie & types
+Dijikstra's algorithm
+spanning tree
+Backtracking
+Graph
+Graph traversal methods
+Haven't covered practicals
+
+Theory:2
+Practical:0

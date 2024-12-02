@@ -9,6 +9,4 @@ class Stack:
         for i in reversed(self.stack):
             print(i)  
 
-s=Stack()
-s.push("amal")
-s.display()            
+         

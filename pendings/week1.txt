@@ -1,0 +1,55 @@
+
+
+
+stack memory, heap memory
+virtual memory
+circular reference
+escape sequence
+UTF-8
+LL palindrome or not
+linear and non linear datastructure
+Static and dynmaical data structure
+implementation of recusrsion
+heap overflow
+Properties big o notation
+time complexity for n nested loop
+dynamic memory allocation advantages
+static dynamic memory allocation
+memory leak
+asymptotic notations
+dynamic arrays
+mutable vs immutable strings
+time complexity of linear search
+Time complexity of binary search
+time complexity for n nested loop
+time complexity of array operations
+Time complexity in array(search: insertion)
+Time complexity in linked list (search- insertion)
+Equations of asymptomatic notations
+drawbacks of binary search
+Disadvantages of recursion
+Applications of doubly LL
+map vs object
+tail recursion
+implementation of recusrsion
+theta notation
+heterogeneous array
+jagged array
+ASCII vs UNICODE
+
+
+
+
+
+Remove vowels from a string
+find a number form infinite sorted array
+find a number form finite sorted array
+complexity for inserting/ removing an element to the beginning of array
+Search number in a sorted array(binary search)
+Remove middle element of  linkedlist
+Remove duplicates from array
+convert last letter to uppercase
+insert node at nth position in SLL 
+Remove middle element of a linkedlist
+Delete a nth element from an linked list using recursion
+Search number in a sorted array(binary search)
